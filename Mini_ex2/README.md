@@ -7,4 +7,5 @@ In my Mini_ex2 I have used very simple and basic shapes and syntaxes to create a
 I believe the definition and the meaning of fun is different from person to person and just as Oga Goriunova says in her text ‘Exploring Pleasure, Paradox and Pain in Computing;’   “Fun should not be understood correctly or in one way its strength is multiplicity.” 
 This is the reason why I have made a game, because I find games and challenges funny and entertaining. I do no expect others to enjoy the game as much as I do because they might finf it boring or they just do not like playing games. But that is okay because I enjoyed making it and I find it amusing to play with.
 
+![alt tekst]https://rawgir.com/NicolineDS/Mini_ex2/master/Maze.png?raw=true
 
